@@ -3,6 +3,8 @@
 Simple API for Bukkit plugins \
 Also support Adventure components on modern PaperMC versions
 
+[Javadocs](https://xabasis.xap3y.eu)
+
 # Features
 
 - Texter
