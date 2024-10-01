@@ -1,0 +1,7 @@
+name: XaBasisTest
+version: '1.0'
+main: eu.xap3y.xabasistest.XaBasisTest
+api-version: '1.20'
+authors: [ XAP3Y ]
+
+
