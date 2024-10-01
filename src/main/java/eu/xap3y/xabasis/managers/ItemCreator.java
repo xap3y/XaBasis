@@ -43,7 +43,7 @@ public class ItemCreator {
     }
 
     /**
-     * @param amount the amount of the item
+     * @param lore the lore of the item
      */
     public ItemCreator setLore(String... lore) {
         this.lore = lore;
@@ -51,7 +51,7 @@ public class ItemCreator {
     }
 
     /**
-     * @param amount the amount of the item
+     * @param flags the flags of the item
      */
     public ItemCreator setFlags(ItemFlag... flags) {
         this.flags = flags;
@@ -59,7 +59,7 @@ public class ItemCreator {
     }
 
     /**
-     * @param amount the amount of the item
+     * @param name the name of the item
      */
     public ItemCreator setName(String name) {
         this.name = name;

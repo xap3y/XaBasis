@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"eu.xap3y.xabasis.adventure.managers"},{"l":"eu.xap3y.xabasis.api.enums"},{"l":"eu.xap3y.xabasis.managers"},{"l":"eu.xap3y.xabasis.util"},{"l":"eu.xap3y.xabasistest"},{"l":"eu.xap3y.xabasistest.listeners"}];updateSearchResults();
